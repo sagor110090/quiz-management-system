@@ -3,6 +3,9 @@
 Welcome to the Laravel Quiz management system  ! This repository contains the source code for a Quiz management system web application.
 here three types of account students, teachers and admin.
 
+## Demo
+https://youtu.be/nvUSTqsDpUw
+
 ## Prerequisites
 
 Before running the project, ensure that you have the following prerequisites installed on your machine:
