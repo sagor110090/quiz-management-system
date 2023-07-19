@@ -1,10 +1,7 @@
- # Quiz management system 
+ # Quiz management system  
 
-
- 
-# Laravel Project
-
-Welcome to the Laravel project! This repository contains the source code for a Laravel application.
+Welcome to the Laravel Quiz management system  ! This repository contains the source code for a Quiz management system web application.
+here three types of account students, teachers and admin.
 
 ## Prerequisites
 
@@ -19,12 +16,12 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/sagor110090/quiz-management-system.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd your-repository
+   cd quiz-management-system
    ```
 
 3. Install the PHP dependencies using Composer:
@@ -32,51 +29,35 @@ To get started with the project, follow these steps:
    composer install
    ```
 
-4. Install the JavaScript dependencies using NPM:
-   ```bash
-   npm install
-   ```
+ 
 
-5. Copy the `.env.example` file and rename it to `.env`:
+4. Copy the `.env.example` file and rename it to `.env`:
    ```bash
    cp .env.example .env
    ```
 
-6. Generate an application key:
+5. Generate an application key:
    ```bash
    php artisan key:generate
    ```
 
-7. Configure the database settings in the `.env` file.
+6. Configure the database settings in the `.env` file.
 
-8. Run the database migrations:
+7. Run the database migrations:
    ```bash
    php artisan migrate --seed
    ```
 
-9. Start the development server:
+8. Start the development server:
    ```bash
    php artisan serve
    ```
 
-10. Open your browser and visit `http://localhost:8000` to see the application.
+9. Open your browser and visit `http://localhost:8000` to see the application.
 
-## Additional Commands
+ 
 
-- To compile assets (CSS and JavaScript):
-   ```bash
-   npm run dev
-   ```
-
-- To watch assets for changes and automatically recompile:
-   ```bash
-   npm run watch
-   ```
-
-- To run the tests:
-   ```bash
-   php artisan test
-   ```
+ 
 
 ## Contributing
 
