@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100vh;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    background: #e0e0e0;
+}
+
+.jumbo {
+    padding-top: 100px;
+    min-height: 200vh;
+}
+
+.shrink .navbar {
+    color: #fafafa;
+    /* background: #00c6ff; */
+    /* background: linear-gradient(35deg, #00c6ff 10%, #0072ff 90%); */
+}

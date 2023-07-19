@@ -1,0 +1,28 @@
+// Inter Fonts
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import '~normalize.css';
+@import '~@fortawesome/fontawesome-free/css/all.css';
+@import '../css/app.css';
+@import "~bootstrap/scss/functions";
+@import "_variables.scss";
+@import "~bootstrap/scss/bootstrap";
+@import "_utilities.scss";
+// Components
+@import "components/_navbar-vertical.scss";
+@import "components/_navbar.scss";
+@import "components/_layout.scss";
+@import "components/_nav.scss";
+@import "components/_scrollspy.scss";
+@import "components/_reboot.scss";
+@import "components/_card.scss";
+@import "components/_avatar.scss";
+@import "components/_button.scss";
+@import "components/_social-button.scss";
+@import "components/_dropdown.scss";
+@import "components/_forms.scss";
+@import "components/_badge.scss";
+@import "components/_table.scss";
+@import "components/_sidenav.scss";
+@import "~select2/dist/css/select2.min.css";
+@import "plugins/select2-bootstrap5.scss";
+// plagin //

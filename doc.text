@@ -1,0 +1,53 @@
+
+ Project Name :- ims
+
+    1. Branch
+        1.name
+
+    2. Department
+        1.name
+
+    3. Designation
+        1.name
+
+    4.Office Shift
+        1.name
+        2.start_time
+        3.end_time
+        5.working_hour
+
+    5.Employee
+        1.name
+        2.phone_number
+        3.date_of_birth
+        4.gender
+        5.address
+
+        6.employee_id
+        7.branch_id
+        8.department_id
+        9.designation_id
+        10.data_of_joining
+
+        11.documents
+        12.image
+        12.image
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///
